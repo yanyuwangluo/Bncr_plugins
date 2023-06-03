@@ -17,7 +17,7 @@ module.exports = async s => {
     kl = s.param(1);
     var options = {
         'method': 'POST',
-        'url': 'https://api.nolanstore.top/JComExchange',
+        'url': 'https://api.nolanstore.cc/JComExchange',
         'headers': {
             'Content-Type': 'application/json'
         },
