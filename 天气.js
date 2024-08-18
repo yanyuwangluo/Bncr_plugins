@@ -26,8 +26,8 @@
 //code = s.param(1);  获取输入
 const request = require('request');
 
-const app_id = "majtlqqagnrmjo8d";
-const app_secret = 'RG5lQXRCVGhRVisxbEw2dDgrbEoxQT09'
+const app_id = "xxxxxxxxxxxx";
+const app_secret = 'xxxxxxxxxxxx'
 module.exports = async s => {
   //you code
   kl = s.param(1);
