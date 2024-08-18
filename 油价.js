@@ -25,7 +25,7 @@
 
 const request = require('request');
 
-const apiKey = "62f7df1333f54e1b3a1f406b6c8d160e";
+const apiKey = "xxxxxxxxxxxxxxxxxx";
 
 module.exports = async s => {
     code = s.param(1);
